@@ -1,12 +1,9 @@
-<h1 align="center">Assignment</h1>
+<h1 align="center">📘 Assignment</h1>
 
-<h3 align="center">Programming Language Structure</h3>
+<p align="center"><strong>Programming Language Structure</strong></p>
 
-<div align="center">
-  <code style="font-size: 1.2em; border: 2px solid black; border-radius: 6px; padding: 5px 15px;">
-    Course code: CSC-461
-  </code>
-</div>
+<p align="center"><code>Course code: CSC-461</code></p>
+
 
 
 ---
