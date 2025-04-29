@@ -3,7 +3,7 @@
 # Course code: CSC-461
 
 
-
+---
 
 # Language Comparison: C++ vs JavaScript
 
