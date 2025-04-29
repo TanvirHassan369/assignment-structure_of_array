@@ -1,4 +1,4 @@
-# ------------------------------------------------Assignment
+# Assignment
 # Programming Language Structure
 # Course code: CSC-461
 
