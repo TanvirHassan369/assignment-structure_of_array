@@ -1,6 +1,12 @@
-# Assignment
-# Programming Language Structure
-# Course code: CSC-461
+<h1 align="center">Assignment</h1>
+
+<h3 align="center">Programming Language Structure</h3>
+
+<div align="center">
+  <code style="font-size: 1.2em; border: 2px solid black; border-radius: 6px; padding: 5px 15px;">
+    Course code: CSC-461
+  </code>
+</div>
 
 
 ---
