@@ -1,4 +1,4 @@
-# Assignment
+# ------------------------------------------------Assignment
 # Programming Language Structure
 # Course code: CSC-461
 
@@ -7,7 +7,6 @@
 
 # Language Comparison: C++ vs JavaScript
 
-**(Focus: Array Implementation and Memory Management)**
 
 ---
 
